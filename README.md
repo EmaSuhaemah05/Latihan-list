@@ -43,3 +43,27 @@ untuk point 3 di perintahkan dari urutan 4 sampai terakhir mka di tulis [3:5] (3
 kemudian *cetak*
 ![Screenshot (61)](https://user-images.githubusercontent.com/57002531/69474540-00cffa00-0df5-11ea-9f9f-bf83bf45add1.png)
 ![Screenshot (63)](https://user-images.githubusercontent.com/57002531/69474539-fa418280-0df4-11ea-9ec0-9d8d7c2cceb9.png)
+
+
+#Program nilai mahasiswa
+
+
+**Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian sebagai berikut
+: • Progam meminta memasukkan data sebanyak-banyaknya (gunakan perulangan) 
+• Tampilkan pertanyaan untuk menambah data (y/t?), apabila jawaban t (Tidak), maka program akan menampilkan daftar datanya. 
+• Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
+• Buat flowchart dan penjelasan programnya pada README.md. 
+• Commit dan push repository ke github.**
+
+**Langkah-langkah membuat program :**
+1. Buat lah list daftar mahasiswa 
+2. Kemudian gunakan statement while untuk perulangan data tsb
+3. konversikan data mahasiswa tersebut gunakan _integer_ untuk angka _string_ untuk kata
+4. Gunakan perintah _.append_ untuk menambahkan nilai pada list yang telah di buat
+5. Buat tabel untuk data mahasiswa tsb (bebas)
+6.gunakan _for x in (data)_ untuk perulangan nilai pada data tsb.
+contoh dan hasilnya seperti gambar berikut :
+![Screenshot (65)](https://user-images.githubusercontent.com/57002531/69894656-34f76d80-1355-11ea-91d9-55be82718b04.png)
+
+![Screenshot (66)](https://user-images.githubusercontent.com/57002531/69894652-0c6f7380-1355-11ea-9daf-75ff70ed4280.png)
+

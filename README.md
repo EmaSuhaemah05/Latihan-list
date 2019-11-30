@@ -1,4 +1,4 @@
-# Praktikum 4
+# List
 
 • Buat sebuah list sebanyak 5 elemen dengan nilai bebas 
 **1. Akses List :
